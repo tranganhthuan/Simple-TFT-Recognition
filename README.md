@@ -2,6 +2,7 @@
 Recognition Champions in TFT 
 
 *Code: Trang Nguyen Anh Thuan*
+
 *Data Collection: Phan Truong Bao Minh*
 
 **How to use**
@@ -10,12 +11,17 @@ Recognition Champions in TFT
 - Step 3: Results are stored in "results" folder
 
 **Requirement**
+
 numpy 1.18.1
+
 tensorflow 1.15.0
+
 opencv-python 3.4.2.17
 
 **Example**
+
 Original image:
 ![Original Image](/example/origin.png)
+
 Result:
 ![Result](/example/result.png)
