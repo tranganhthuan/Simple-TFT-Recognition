@@ -1,5 +1,5 @@
-# Simple-TFT-Recognition
-Recognition Champions in TFT 
+# Simple TFT Recognition
+A model that recognises champions in TFT. 
 
 *Code: Trang Nguyen Anh Thuan*
 
